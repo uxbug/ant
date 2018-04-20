@@ -1,9 +1,9 @@
 #!/bin/bash
 ########################################
-#                 Ant				   #
-#        Linux Server Probe Script	   #
-#            author: ubug			   #
-#          date: 2018/01/20			   #
+#                 Ant		       #
+#        Linux Server Probe Script     #
+#            author: ubug	       #
+#          date: 2018/01/20	       #
 ########################################
 
 # export path
